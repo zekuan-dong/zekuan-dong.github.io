@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download PDF version of my CV here](http://zekuan-dong.github.io/files/paper1.pdf)
+[Download PDF version of my CV here](http://zekuan-dong.github.io/files/CV.pdf)
 
-[中文版PDF简历请从此处下载](http://zekuan-dong.github.io/files/paper2.pdf)
+[中文版PDF简历请从此处下载](http://zekuan-dong.github.io/files/CV_Chinese.pdf)
 
 Education
 ======
