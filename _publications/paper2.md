@@ -9,4 +9,4 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S1389934119302515'
 citation: 'Lin, B., Du, R., Dong, Z., Jin, S., & Liu, W. (2020). The impact of foreign direct investment on the productivity of the Chinese forest products industry. Forest Policy and Economics, 111, 102035.'
 ---
 
-[Download paper here](http://zekuan-dong.github.io/files/paper2.pdf)
+[Download paper here](http://zekuan-dong.github.io/files/paper3.pdf)

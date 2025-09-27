@@ -9,4 +9,4 @@ paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/cjag.12357'
 citation: 'McKendree, M. G., Tonsor, G. T., & Dong, Z. (2024). Price pass‐through in the US beef industry: Implications of feedlot capacity utilization. Canadian Journal of Agricultural Economics, 72(3), 365-387.'
 ---
 
-[Download paper here](http://zekuan-dong.github.io/files/pape3.pdf)
+[Download paper here](http://zekuan-dong.github.io/files/pape2.pdf)
