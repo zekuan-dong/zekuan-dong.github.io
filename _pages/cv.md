@@ -8,33 +8,35 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download PDF version of my CV here](http://zekuan-dong.github.io/files/paper1.pdf)
+
+[中文版PDF简历请从此处下载](http://zekuan-dong.github.io/files/paper2.pdf)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Agricultural Economics, Michigan State University, 2025 (expected)
+* M.S. in Agricultural Economics, Zhejiang University, 2020
+* B.S. in Agricultural Economics, Zhejiang University, 2018
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant
+  * Michigan State University
+  * Aug 2020-June 2025
+  * Supervisor: Prof. Frank Lupi, Prof. Melissa McKendree, Prof. Aleks Schaefer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Abstracts Reviewer
+  * For AAEA Annual Meeting
+  * Feb 2021, Feb 2024, Feb 2025
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Stata
+* LATEX
+* QGIS
+* SAS
 
 Publications
 ======
@@ -54,6 +56,37 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Projects
 ======
-* Currently signed in to 43 different slack teams
+* Metrics, Management, and Monitoring: Linking Grazing Management, Soil Health, and Producer Wellbeing
+  * Research Assistant
+  * Main Sponsors: Foundation for Food & Agriculture Research (FFAR USDA) and Noble Research Institute
+  * Grant amount: $20,000,000
+
+* Metrics, Management, and Monitoring: Linking Grazing Management, Soil Health, and Producer Wellbeing
+  * Research Assistant
+  * Sponsors: Sustainable Agriculture Research and Education (SARE USDA)
+  * Grant amount: $250,000
+
+Awards and Honors
+======
+* 2025    
+  * Dissertation Completion Fellowship, Michigan State University 
+* 2022/2023/2024	
+  * Conference Travel Grant, Michigan State University
+* 2020	
+  * Outstanding Graduates of Zhejiang Province
+  * Outstanding Master's Thesis, Zhejiang Province
+  * Outstanding Graduates of Zhejiang University
+  * Outstanding Master's Thesis, Zhejiang University
+* 2019    
+  * National Scholarship, Zhejiang University 
+  * Merit Graduate Student Awards, Zhejiang University
+* 2017    
+  * Wanglaoji Scholarship, Zhejiang University
+  * Third-Class Scholarship for Outstanding Merits, Zhejiang University
+  * Outstanding Student Leader Awards, Zhejiang University
+* 2016    
+  * Da Bei Nong Scholarship, Zhejiang University
+  * Outstanding Student Leader Awards, Zhejiang University
+  * Excellent Social Work Scholarship, Zhejiang University

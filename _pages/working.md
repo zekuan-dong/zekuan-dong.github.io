@@ -4,22 +4,19 @@ title: "Working Papers"
 author_profile: true
 ---
 
-## Price Pass-Through in the U.S. Beef Industry: Implications of Feedlot Capacity Utilization
-With McKendree, M.G.S. & Tonsor, G.T.
+## Financial Well-Being of Rural Households: A Theoretical Framework and Application
+Dong, Z., McKendree, M.G.S., & Lupi, F.
+Under review at the *Agricultural and Resource Economics Review*
 
-Revise and resubmit at *Canadian Journal of Agricultural Economics*
+[Download manuscript here](http://zekuan-dong.github.io/files/paper4.pdf)
 
-[Download manuscript here](http://academicpages.github.io/files/paper1.pdf)
+## Urbanization and Livestock Disease: Evidence from Bovine Tuberculosis in Great Britain
+Dong, Z., Shaefer, K. A., Lupi, F., & Jin, S.
 
-## Financial Well-being of Rural Households: A Theoretical Framework and A Case Study
-With McKendree, M.G.S.
-
-Essay 2 of dissertation, Manuscript in preparation
+Essay 3 of dissertation, [Download manuscript here](http://zekuan-dong.github.io/files/paper5.pdf)
 
 
-## The Spillover Effects of Food Safety Crisis on Food Export: Evidence from China-Japan "Toxic Spinach" and "Toxic Dumplings" Events
-With Jin, Shaosheng
+## Formal Credit Accessibility and Productivity Resilience to Natural Disasters: Evidence from the Qinghai-Tibetan Plateau of China
+Dong, Z., Ning, Y., & Zhang, Y.
 
 Manuscript in preparation
-
-
